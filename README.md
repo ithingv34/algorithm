@@ -15,4 +15,4 @@ https://ithingv34.github.io/algorithm-test/
 | 번호 |  문제  | 유형   |         난이도          |        풀이        |
 |:---:	|:---	|:---	|:--:|:---:|
 |2859|[설탕배달](https://www.acmicpc.net/problem/2839)|그리디, DP|s4| [java](backjoon/problem/2839/java/Main.java)||
-|4673|[셀프넘버](https://www.acmicpc.net/problem/4673)|수열|
+|4673|[셀프넘버](https://www.acmicpc.net/problem/4673)|수열| 
