@@ -8,6 +8,8 @@ https://ithingv34.github.io/algorithm-test/
 | 번호 |  문제  | 유형   |         난이도          |        풀이        |
 |:---:	|:---	|:---	|:--:|:---:|
 |1|[타겟넘버](zerobase/problem/1) |DFS/BFS| Lv2 |[python](../programmers/43165/solution.py), [java](../programmers/43165/Solution.java)|
+더맵게
+여행계획
 
 
 # Backjoon
