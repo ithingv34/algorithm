@@ -15,6 +15,8 @@ https://ithingv34.github.io/algorithm-test/
 디스크컨트롤러
 카펫
 피로도
+타겟넘버
+게임 맵 최단거리
 
 
 # Backjoon
