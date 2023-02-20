@@ -8,11 +8,41 @@ https://ithingv34.github.io/algorithm-test/
 | 번호 |  문제  | 유형   |         난이도          |        풀이        |
 |:---:	|:---	|:---	|:--:|:---:|
 |1|[타겟넘버](zerobase/problem/1) |DFS/BFS| Lv2 |[python](../programmers/43165/solution.py), [java](../programmers/43165/Solution.java)|
-
+더맵게
+여행계획
+배달 
+조이스틱
+디스크컨트롤러
+카펫
+피로도
+타겟넘버
+게임 맵 최단거리
+네트워크
+여행경로
+아이템 줍기
+단어변환
+조이스틱
+가장 먼 노드
+기둥과 보
+이중우선순위큐
 
 # Backjoon
 
 | 번호 |  문제  | 유형   |         난이도          |        풀이        |
 |:---:	|:---	|:---	|:--:|:---:|
 |2859|[설탕배달](https://www.acmicpc.net/problem/2839)|그리디, DP|s4| [java](backjoon/problem/2839/java/Main.java)||
-|4673|[셀프넘버](https://www.acmicpc.net/problem/4673)|수열|
+|4673|[셀프넘버](https://www.acmicpc.net/problem/4673)|수열| 
+2805
+7579 토마토
+2887
+maximum subarr
+아기상어
+1992
+1080
+2193
+1759
+
+
+# 이코테 
+
+1로 만들기
