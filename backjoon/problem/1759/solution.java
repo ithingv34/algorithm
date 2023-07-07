@@ -84,7 +84,7 @@ public class Main {
 
         long nextLong() {
             return Long.parseLong(next());
-        }
+        } 
 
         double nextDouble() {
             return Double.parseDouble(next());
